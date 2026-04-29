@@ -1,4 +1,3 @@
-```markdown
 # Simulasi Gacha Predatorik - Buat Nunjukin Bahaya Judi
 
 **Peringatan keras dulu ya: Ini cuma simulasi edukasi, BUKAN ajakan buat judi. Judi itu haram dan ilegal di Indonesia (UU No. 7/1974).**
