@@ -8,9 +8,9 @@ Gua bikin simulasi ini buat nunjukin gimana sistem gacha/judi bisa bikin orang b
 
 ## 🎥 Demo Video
 
-<a href="demo-simulasi.mp4">Cek Demo</a>
+<a href="https://jumpshare.com/s/Bt7xFmoRqS5OyTNjbqwI">Cek Demo</a>
 
-<video src="demo-simulasi.mp4" controls width="100%">
+<video src="https://jumpshare.com/s/Bt7xFmoRqS5OyTNjbqwI" controls width="100%">
   Browser lo gak support video tag. Coba buka pake Chrome atau Firefox.
 </video>
 
